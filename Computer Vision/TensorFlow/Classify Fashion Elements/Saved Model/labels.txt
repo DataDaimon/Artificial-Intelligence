@@ -1,0 +1,10 @@
+0 Bags
+1 Belts
+2 Bottomwear
+3 Cufflinks
+4 Dress
+5 Eyewear
+6 Flip Flops
+7 Fragrance
+8 Jewelry
+9 Watches
